@@ -1,0 +1,1 @@
+Planet Earth website header created using html5, css3 and javaScript. Open link and minimize the window size of the browser to 768px and check the change in the navigation bar: https://codestreetone.github.io/planerearth/
